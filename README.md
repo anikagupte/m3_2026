@@ -1,3 +1,3 @@
-# m3_2026
-The code for our submission for MathWorks' M3 Modelling competition.
+# MathWorks' M3 Modelling Competition Code
+
 UPDATE: Technical Computing Finalist and scholarship-winning submission! Off to New York for the presentation...
