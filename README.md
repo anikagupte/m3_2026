@@ -1,3 +1,3 @@
 # MathWorks' M3 Modelling Competition Code
 
-UPDATE: Technical Computing Finalist and double scholarship-winning submission! Off to New York for the presentation...
+UPDATE: Placed 2nd out of 980 teams for the technical computing award. Also top 4% overall, winning a double scholarship.
